@@ -1,0 +1,16 @@
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.customBackground{
+  background-image: url('../img/bg.png');
+
+/*background: url(../img/bg.png) repeat left top;*/
+background-repeat: no-repeat;
+background-size: 100% 80%;
+}
